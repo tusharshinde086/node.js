@@ -5,4 +5,7 @@ const pi =3.14;
 
 //module.exports  used in script.js 
 
-module.export =123;
+module.exports = "hello tushar";
+
+console.log("-------------------------------------");
+

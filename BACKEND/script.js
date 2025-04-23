@@ -4,6 +4,8 @@ for (let i=0;i<n;i++){
 }
 console.log("bye!");
 
+console.log("-------------------------------------");
+
 //process
 
 //   process.realease              , process.cwd() ,
@@ -13,6 +15,9 @@ for(let i =2;i<args.length; i++){
     console.log("hello to ",args[i])
 }
 
+console.log("-------------------------------------");
+
 //module.exports  used in script.js 
 
 const somevalue = require("./math");
+console.log(somevalue);
