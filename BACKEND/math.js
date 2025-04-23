@@ -9,3 +9,10 @@ module.exports = "hello tushar";
 
 console.log("-------------------------------------");
 
+let obj = {
+    sum : sum,
+    mul : mul ,
+    g: g ,
+    pi : pi 
+};
+module.exports = obj ;

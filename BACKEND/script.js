@@ -17,7 +17,11 @@ for(let i =2;i<args.length; i++){
 
 console.log("-------------------------------------");
 
-//module.exports  used in script.js 
+//module.exports  used to send data 
 
 const somevalue = require("./math");
 console.log(somevalue);
+console.log("-------------------------------------");
+//require   using to get export from another file 
+console.log(somevalue.sum(2,2));
+console.log(somevalue.pi);
