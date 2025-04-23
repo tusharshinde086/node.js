@@ -25,3 +25,6 @@ console.log("-------------------------------------");
 //require   using to get export from another file 
 console.log(somevalue.sum(2,2));
 console.log(somevalue.pi);
+
+console.log("-------------------------------------");
+// one too anothr directory 

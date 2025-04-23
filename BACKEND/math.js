@@ -17,3 +17,6 @@ let obj = {
     pi : pi ,   
 };
 module.exports = obj ;
+
+// one too anothr directory 
+console.log("-------------------------------------");
