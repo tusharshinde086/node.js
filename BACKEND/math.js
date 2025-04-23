@@ -8,11 +8,12 @@ const pi =3.14;
 module.exports = "hello tushar";
 
 console.log("-------------------------------------");
+module.exports = "-------------------------------------";
 
 let obj = {
     sum : sum,
     mul : mul ,
     g: g ,
-    pi : pi 
+    pi : pi ,   
 };
 module.exports = obj ;
