@@ -12,3 +12,7 @@ let args = process.argv;
 for(let i =2;i<args.length; i++){
     console.log("hello to ",args[i])
 }
+
+//module.exports  used in script.js 
+
+const somevalue = require("./math");
