@@ -27,4 +27,3 @@ console.log(somevalue.sum(2,2));
 console.log(somevalue.pi);
 
 console.log("-------------------------------------");
-// one too anothr directory 
