@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharshinde086/node.js.git"
+  },
+  "author": "Tushar Shinde",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tusharshinde086/node.js/issues"
+  },
+  "homepage": "https://github.com/tusharshinde086/node.js#readme",
+  "description": "created for learning npm js",
+  "dependencies": {
+    "random-words": "^2.0.1"
+  }
+}
